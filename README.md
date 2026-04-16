@@ -33,4 +33,4 @@ Gained hands-on experience in building machine learning models, improving data q
 ---
 
 ## 📄 Certificate
-![Certificate](AIEngineer.Certificate.jpeg) 
+![Certificate](certificate.png)
