@@ -35,15 +35,14 @@ Gained hands-on experience in building machine learning models, improving data q
 ## 📂 Projects Completed
 
 ### 📱 Cellphone Price Prediction  
-Machine learning classification project to predict mobile price ranges.  
-🔗 https://github.com/shwetayaligar24/cellphone-price-prediction  
+Machine learning classification project to predict mobile price ranges using hardware features like RAM, battery, and display.  
+🔗 [View Project](https://github.com/shwetayaligar24/cellphone-price-prediction)
 
 ---
 
 ### 🏠 House Price Prediction  
-Regression model to predict house prices using property features.  
-🔗 https://github.com/shwetayaligar24/house-price-prediction  
-
+Regression model to predict house prices based on property features such as location, area, and quality.  
+🔗 [View Project](https://github.com/shwetayaligar24/house-price-prediction) 
 ---
 ## 📄 Certificate
 ![Certificate](Certificate.jpeg)
