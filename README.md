@@ -27,14 +27,23 @@ Completed a Data Science & AI internship where I worked on real-world projects i
 
 ---
 
-## 📌 Outcome
-Gained hands-on experience in building machine learning models, improving data quality, and generating insights from real-world datasets.
+## 📊 Outcome
+Gained hands-on experience in building machine learning models, improving data quality, and generating insights.
 
 ---
 
-[📱 Cellphone Price Prediction](https://github.com/shwetayaligar24/cellphone-price-prediction)
+## 📂 Projects Completed
 
-[🏠 House Price Prediction](https://github.com/shwetayaligar24/house-price-prediction)
+### 📱 Cellphone Price Prediction  
+Machine learning classification project to predict mobile price ranges.  
+🔗 https://github.com/shwetayaligar24/cellphone-price-prediction  
 
+---
+
+### 🏠 House Price Prediction  
+Regression model to predict house prices using property features.  
+🔗 https://github.com/shwetayaligar24/house-price-prediction  
+
+---
 ## 📄 Certificate
 ![Certificate](Certificate.jpeg)
