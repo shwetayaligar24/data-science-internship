@@ -32,5 +32,9 @@ Gained hands-on experience in building machine learning models, improving data q
 
 ---
 
+[📱 Cellphone Price Prediction](https://github.com/shwetayaligar24/cellphone-price-prediction)
+
+[🏠 House Price Prediction](https://github.com/shwetayaligar24/house-price-prediction)
+
 ## 📄 Certificate
 ![Certificate](Certificate.jpeg)
